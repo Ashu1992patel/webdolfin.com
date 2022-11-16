@@ -19,16 +19,18 @@
                         <path class="line bottom"
                             d="m 70,67 h -40 c 0,0 -7.5,-0.802118 -7.5,-8.365747 0,-7.563629 7.5,-8.634253 7.5,-8.634253 h 20" />
                     </svg>
+                    
                     <div id="main-nav" class="stellarnav">
                         <ul id="nav" class="nav navbar-nav pull-right">
                             <li id="menu-item-2670"
-                                class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-582 current_page_item current-menu-ancestor current-menu-parent current_page_parent current_page_ancestor menu-item-has-children">
-                                <a href="{{ route('home') }}">Home<span class="sub"></span></a>
+                                class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-582 current-menu-ancestor current_page_parent current_page_ancestor menu-item-has-children {{ request()->is('home*') ? 'current-menu-parent current_page_item' : '' }}">
+                                <a href="{{ route('home') }}">Home</a>
                             </li>
-                            <li id="menu-item-597" class="menu-item menu-item-type-post_type menu-item-object-page"><a
+
+                            <li id="menu-item-597" class="menu-item menu-item-type-post_type menu-item-object-page {{ request()->is('about*') ? 'current-menu-parent current_page_item' : '' }}"><a
                                     href="{{ route('about') }}">About<span class="sub"></span></a></li>
                             <li id="menu-item-596"
-                                class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children">
+                                class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children {{ request()->is('services*') ? 'current-menu-parent current_page_item' : '' }}">
                                 <a href="{{ route('services') }}">Services<span class="sub"></span></a>
                                 <ul class="sub-menu">
                                     <li id="menu-item-1888"
@@ -38,13 +40,13 @@
                                 </ul>
                             </li>
 
-                            <li id="menu-item-597" class="menu-item menu-item-type-post_type menu-item-object-page"><a
+                            <li id="menu-item-597" class="menu-item menu-item-type-post_type menu-item-object-page {{ request()->is('team*') ? 'current-menu-parent current_page_item' : '' }}"><a
                                     href="{{ route('team') }}">Team</a></li>
 
-                            <li id="menu-item-597" class="menu-item menu-item-type-post_type menu-item-object-page"><a
+                            <li id="menu-item-597" class="menu-item menu-item-type-post_type menu-item-object-page {{ request()->is('faq*') ? 'current-menu-parent current_page_item' : '' }}"><a
                                     href="{{ route('faq') }}">FAQ</a></li>
 
-                            <li id="menu-item-597" class="menu-item menu-item-type-post_type menu-item-object-page"><a
+                            <li id="menu-item-597" class="menu-item menu-item-type-post_type menu-item-object-page {{ request()->is('plans*') ? 'current-menu-parent current_page_item' : '' }}"><a
                                     href="{{ route('plans') }}">Our Plans</a></li>
 
 
@@ -64,9 +66,9 @@
                                             href="{{ route('faq') }}">FAQ<span class="sub"></span></a></li>
                                 </ul>
                             </li>
-                            <li id="menu-item-595" class="menu-item menu-item-type-post_type menu-item-object-page"><a
+                            <li id="menu-item-595" class="menu-item menu-item-type-post_type menu-item-object-page {{ request()->is('blog*') ? 'current-menu-parent current_page_item' : '' }}"><a
                                     href="{{ route('blog') }}">Blog<span class="sub"></span></a></li>
-                            <li id="menu-item-594" class="menu-item menu-item-type-post_type menu-item-object-page"><a
+                            <li id="menu-item-594" class="menu-item menu-item-type-post_type menu-item-object-page {{ request()->is('contact*') ? 'current-menu-parent current_page_item' : '' }}"><a
                                     href="{{ route('contact') }}">Contact<span class="sub"></span></a></li>
                         </ul>
                     </div>
