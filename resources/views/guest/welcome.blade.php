@@ -1,149 +1,6 @@
-<!doctype html>
-<html lang="en-US">
+@extends('guest.master')
 
-<head>
-    @include('guest.components.head')
-</head>
-
-<body
-    class="home page-template page-template-elementor_header_footer page page-id-582 header__style__1 no-sidebar elementor-default elementor-template-full-width elementor-kit-5 elementor-page elementor-page-582"
-    data-spy="scroll" data-target=".mainmenu-area" data-offset="90">
-    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
-        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
-        <defs>
-            <filter id="wp-duotone-dark-grayscale">
-                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
-                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
-                <feComponentTransfer color-interpolation-filters="sRGB">
-                    <feFuncR type="table" tableValues="0 0.49803921568627" />
-                    <feFuncG type="table" tableValues="0 0.49803921568627" />
-                    <feFuncB type="table" tableValues="0 0.49803921568627" />
-                    <feFuncA type="table" tableValues="1 1" />
-                </feComponentTransfer>
-                <feComposite in2="SourceGraphic" operator="in" />
-            </filter>
-        </defs>
-    </svg>
-    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
-        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
-        <defs>
-            <filter id="wp-duotone-grayscale">
-                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
-                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
-                <feComponentTransfer color-interpolation-filters="sRGB">
-                    <feFuncR type="table" tableValues="0 1" />
-                    <feFuncG type="table" tableValues="0 1" />
-                    <feFuncB type="table" tableValues="0 1" />
-                    <feFuncA type="table" tableValues="1 1" />
-                </feComponentTransfer>
-                <feComposite in2="SourceGraphic" operator="in" />
-            </filter>
-        </defs>
-    </svg>
-    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
-        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
-        <defs>
-            <filter id="wp-duotone-purple-yellow">
-                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
-                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
-                <feComponentTransfer color-interpolation-filters="sRGB">
-                    <feFuncR type="table" tableValues="0.54901960784314 0.98823529411765" />
-                    <feFuncG type="table" tableValues="0 1" />
-                    <feFuncB type="table" tableValues="0.71764705882353 0.25490196078431" />
-                    <feFuncA type="table" tableValues="1 1" />
-                </feComponentTransfer>
-                <feComposite in2="SourceGraphic" operator="in" />
-            </filter>
-        </defs>
-    </svg>
-    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
-        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
-        <defs>
-            <filter id="wp-duotone-blue-red">
-                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
-                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
-                <feComponentTransfer color-interpolation-filters="sRGB">
-                    <feFuncR type="table" tableValues="0 1" />
-                    <feFuncG type="table" tableValues="0 0.27843137254902" />
-                    <feFuncB type="table" tableValues="0.5921568627451 0.27843137254902" />
-                    <feFuncA type="table" tableValues="1 1" />
-                </feComponentTransfer>
-                <feComposite in2="SourceGraphic" operator="in" />
-            </filter>
-        </defs>
-    </svg>
-    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
-        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
-        <defs>
-            <filter id="wp-duotone-midnight">
-                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
-                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
-                <feComponentTransfer color-interpolation-filters="sRGB">
-                    <feFuncR type="table" tableValues="0 0" />
-                    <feFuncG type="table" tableValues="0 0.64705882352941" />
-                    <feFuncB type="table" tableValues="0 1" />
-                    <feFuncA type="table" tableValues="1 1" />
-                </feComponentTransfer>
-                <feComposite in2="SourceGraphic" operator="in" />
-            </filter>
-        </defs>
-    </svg>
-    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
-        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
-        <defs>
-            <filter id="wp-duotone-magenta-yellow">
-                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
-                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
-                <feComponentTransfer color-interpolation-filters="sRGB">
-                    <feFuncR type="table" tableValues="0.78039215686275 1" />
-                    <feFuncG type="table" tableValues="0 0.94901960784314" />
-                    <feFuncB type="table" tableValues="0.35294117647059 0.47058823529412" />
-                    <feFuncA type="table" tableValues="1 1" />
-                </feComponentTransfer>
-                <feComposite in2="SourceGraphic" operator="in" />
-            </filter>
-        </defs>
-    </svg>
-    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
-        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
-        <defs>
-            <filter id="wp-duotone-purple-green">
-                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
-                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
-                <feComponentTransfer color-interpolation-filters="sRGB">
-                    <feFuncR type="table" tableValues="0.65098039215686 0.40392156862745" />
-                    <feFuncG type="table" tableValues="0 1" />
-                    <feFuncB type="table" tableValues="0.44705882352941 0.4" />
-                    <feFuncA type="table" tableValues="1 1" />
-                </feComponentTransfer>
-                <feComposite in2="SourceGraphic" operator="in" />
-            </filter>
-        </defs>
-    </svg>
-    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
-        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
-        <defs>
-            <filter id="wp-duotone-blue-orange">
-                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
-                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
-                <feComponentTransfer color-interpolation-filters="sRGB">
-                    <feFuncR type="table" tableValues="0.098039215686275 1" />
-                    <feFuncG type="table" tableValues="0 0.66274509803922" />
-                    <feFuncB type="table" tableValues="0.84705882352941 0.41960784313725" />
-                    <feFuncA type="table" tableValues="1 1" />
-                </feComponentTransfer>
-                <feComposite in2="SourceGraphic" operator="in" />
-            </filter>
-        </defs>
-    </svg>
-    <div class="preeloader">
-        <img src="wp-content/themes/omnivus/assets/img/loader/loeader_square.gif" alt="preloader">
-    </div>
-    <!--SCROLL TO TOP-->
-    <a href="#scrolltotop" class="scrolltotop"><i class="ti ti-angle-up"></i></a>
-
-    @include('guest.components.header')
-
+@section('content')
     <div data-elementor-type="wp-page" data-elementor-id="582" class="elementor elementor-582">
         <section
             class="elementor-section elementor-top-section elementor-element elementor-element-256f269 banner-section elementor-section-boxed elementor-section-height-default elementor-section-height-default"
@@ -262,8 +119,7 @@
                                     data-settings="{&quot;animation&quot;:&quot;fadeInUp&quot;}">
                                     <div class="elementor-widget-wrap elementor-element-populated">
                                         <div class="elementor-element elementor-element-8dd7230 elementor-widget elementor-widget-image"
-                                            data-id="8dd7230" data-element_type="widget"
-                                            data-widget_type="image.default">
+                                            data-id="8dd7230" data-element_type="widget" data-widget_type="image.default">
                                             <div class="elementor-widget-container">
                                                 <style>
                                                     /*! elementor - v3.8.0 - 30-10-2022 */
@@ -283,7 +139,7 @@
                                                         vertical-align: middle;
                                                         display: inline-block
                                                     }
-                                                </style> 
+                                                </style>
                                                 <img width="544" height="756"
                                                     src="wp-content/uploads/sites/2/2021/07/banner-man.png"
                                                     class="attachment-large size-large" alt="" loading="lazy"
@@ -310,8 +166,7 @@
                         <div class="elementor-element elementor-element-50669f8 elementor-widget elementor-widget-image"
                             data-id="50669f8" data-element_type="widget" data-widget_type="image.default">
                             <div class="elementor-widget-container">
-                                <img width="530" height="730"
-                                    src="wp-content/uploads/sites/2/2021/07/about-thumb.jpg"
+                                <img width="530" height="730" src="wp-content/uploads/sites/2/2021/07/about-thumb.jpg"
                                     class="attachment-large size-large" alt="" loading="lazy"
                                     srcset="https://techbird.org/omnivus/home-1/wp-content/uploads/sites/2/2021/07/about-thumb.jpg 530w, https://techbird.org/omnivus/home-1/wp-content/uploads/sites/2/2021/07/about-thumb-218x300.jpg 218w, https://techbird.org/omnivus/home-1/wp-content/uploads/sites/2/2021/07/about-thumb-240x330.jpg 240w, https://techbird.org/omnivus/home-1/wp-content/uploads/sites/2/2021/07/about-thumb-131x180.jpg 131w"
                                     sizes="(max-width: 530px) 100vw, 530px" />
@@ -541,8 +396,7 @@
                             <div class="elementor-widget-container">
                                 <div class="elementor-button-wrapper">
                                     <a href="https://techbird.org/omnivus/about/"
-                                        class="elementor-button-link elementor-button elementor-size-md"
-                                        role="button">
+                                        class="elementor-button-link elementor-button elementor-size-md" role="button">
                                         <span class="elementor-button-content-wrapper">
                                             <span class="elementor-button-text">Learn More</span>
                                         </span>
@@ -912,8 +766,7 @@
                             <div class="elementor-widget-container">
                                 <div class="elementor-button-wrapper">
                                     <a href="https://techbird.org/omnivus/about/"
-                                        class="elementor-button-link elementor-button elementor-size-md"
-                                        role="button">
+                                        class="elementor-button-link elementor-button elementor-size-md" role="button">
                                         <span class="elementor-button-content-wrapper">
                                             <span class="elementor-button-text">Learn More</span>
                                         </span>
@@ -1131,8 +984,7 @@
                                                             method="post" class="wpcf7-form init"
                                                             novalidate="novalidate" data-status="init">
                                                             <div style="display: none;">
-                                                                <input type="hidden" name="_wpcf7"
-                                                                    value="7" />
+                                                                <input type="hidden" name="_wpcf7" value="7" />
                                                                 <input type="hidden" name="_wpcf7_version"
                                                                     value="5.6.4" />
                                                                 <input type="hidden" name="_wpcf7_locale"
@@ -1170,16 +1022,15 @@
                                                                 <div class="col-md-12">
                                                                     <div class="input-group textarea-group">
                                                                         <textarea name="message" cols="40" rows="10"
-                                                                            class="wpcf7-form-control wpcf7-textarea wpcf7-validates-as-required" aria-required="true"
-                                                                            aria-invalid="false" placeholder="Message Us"></textarea>
+                                                                            class="wpcf7-form-control wpcf7-textarea wpcf7-validates-as-required" aria-required="true" aria-invalid="false"
+                                                                            placeholder="Message Us"></textarea>
                                                                         <span class="icon"><i
                                                                                 class="fa fa-pencil-square-o"></i></span>
                                                                     </div>
                                                                 </div>
                                                                 <div class="col-md-12">
                                                                     <div class="input-group">
-                                                                        <input type="submit"
-                                                                            value="Get A Free Quote"
+                                                                        <input type="submit" value="Get A Free Quote"
                                                                             class="wpcf7-form-control has-spinner wpcf7-submit main-btn" />
                                                                     </div>
                                                                 </div>
@@ -1224,20 +1075,18 @@
                             data-widget_type="Ultimate_Adv_Accordion.default">
                             <div class="elementor-widget-container">
                                 <div class="ultimate__adv__accordion" id="ultimate__adv__accordion-7740d07"
-                                    data-accordion-id="7740d07" data-accordion-type="toggle"
-                                    data-toogle-speed="300">
+                                    data-accordion-id="7740d07" data-accordion-type="toggle" data-toogle-speed="300">
                                     <div class="ultimate__accordion__list">
                                         <div id="elementor-tab-title-1251"
                                             class="elementor-tab-title ultimate__accordion__header active-default"
-                                            tabindex="1251" data-tab="1"
-                                            aria-controls="elementor-tab-content-1251">
+                                            tabindex="1251" data-tab="1" aria-controls="elementor-tab-content-1251">
                                             <span class="ultimate__accordion__title__icon">
                                                 Does any industry a more audience journey? </span>
                                             <i class="fa fa-angle-right toggle__icon"></i>
                                         </div>
                                         <div id="elementor-tab-content-1251"
-                                            class="ultimate__accordion__content clearfix active-default"
-                                            data-tab="1" aria-labelledby="elementor-tab-title-1251">
+                                            class="ultimate__accordion__content clearfix active-default" data-tab="1"
+                                            aria-labelledby="elementor-tab-title-1251">
                                             <div class="adv__accor__content">Today, the term Information Technology
                                                 (IT) has ballooned to encompass is real. Today, the term Information
                                                 Technology (IT) has ballooned to encompass is real.Today, the term
@@ -1252,9 +1101,8 @@
                                                 Over the years, a wide range of developments </span>
                                             <i class="fa fa-angle-right toggle__icon"></i>
                                         </div>
-                                        <div id="elementor-tab-content-1252"
-                                            class="ultimate__accordion__content clearfix" data-tab="2"
-                                            aria-labelledby="elementor-tab-title-1252">
+                                        <div id="elementor-tab-content-1252" class="ultimate__accordion__content clearfix"
+                                            data-tab="2" aria-labelledby="elementor-tab-title-1252">
                                             <div class="adv__accor__content">
                                                 <p>Today, the term Information Technology (IT) has ballooned to
                                                     encompass is real. Today, the term Information Technology (IT) has
@@ -1271,9 +1119,8 @@
                                                 As a result, most of us need to know </span>
                                             <i class="fa fa-angle-right toggle__icon"></i>
                                         </div>
-                                        <div id="elementor-tab-content-1253"
-                                            class="ultimate__accordion__content clearfix" data-tab="3"
-                                            aria-labelledby="elementor-tab-title-1253">
+                                        <div id="elementor-tab-content-1253" class="ultimate__accordion__content clearfix"
+                                            data-tab="3" aria-labelledby="elementor-tab-title-1253">
                                             <div class="adv__accor__content">
                                                 <p>Today, the term Information Technology (IT) has ballooned to
                                                     encompass is real. Today, the term Information Technology (IT) has
@@ -1290,9 +1137,8 @@
                                                 Our knowledge of computers will help us </span>
                                             <i class="fa fa-angle-right toggle__icon"></i>
                                         </div>
-                                        <div id="elementor-tab-content-1254"
-                                            class="ultimate__accordion__content clearfix" data-tab="4"
-                                            aria-labelledby="elementor-tab-title-1254">
+                                        <div id="elementor-tab-content-1254" class="ultimate__accordion__content clearfix"
+                                            data-tab="4" aria-labelledby="elementor-tab-title-1254">
                                             <div class="adv__accor__content">
                                                 <p>Today, the term Information Technology (IT) has ballooned to
                                                     encompass is real. Today, the term Information Technology (IT) has
@@ -1309,9 +1155,8 @@
                                                 Our knowledge of computers will help us </span>
                                             <i class="fa fa-angle-right toggle__icon"></i>
                                         </div>
-                                        <div id="elementor-tab-content-1255"
-                                            class="ultimate__accordion__content clearfix" data-tab="5"
-                                            aria-labelledby="elementor-tab-title-1255">
+                                        <div id="elementor-tab-content-1255" class="ultimate__accordion__content clearfix"
+                                            data-tab="5" aria-labelledby="elementor-tab-title-1255">
                                             <div class="adv__accor__content">
                                                 <p>Today, the term Information Technology (IT) has ballooned to
                                                     encompass is real. Today, the term Information Technology (IT) has
@@ -1341,8 +1186,7 @@
                         </div>
                         <div class="elementor-element elementor-element-d1d014c elementor-absolute elementor-widget-tablet__width-auto elementor-widget elementor-widget-image"
                             data-id="d1d014c" data-element_type="widget"
-                            data-settings="{&quot;_position&quot;:&quot;absolute&quot;}"
-                            data-widget_type="image.default">
+                            data-settings="{&quot;_position&quot;:&quot;absolute&quot;}" data-widget_type="image.default">
                             <div class="elementor-widget-container">
                                 <img width="440" height="319"
                                     src="wp-content/uploads/sites/2/2021/07/tile-gallery-06.jpg"
@@ -1608,246 +1452,4 @@
             </div>
         </section>
     </div>
-    
-    @include('guest.components.footer')
-
-    <link rel='stylesheet' id='e-animations-css'
-        href='wp-content/plugins/elementor/assets/lib/animations/animations.min9e95.css?ver=3.8.0' type='text/css'
-        media='all' />
-    <script type='text/javascript' src='wp-content/plugins/ultimate-addon/assets/js/appear1eb7.js?ver=6.0.3' id='appear-js'>
-    </script>
-    <script type='text/javascript' src='wp-content/plugins/ultimate-addon/assets/js/owl.carousel.min1eb7.js?ver=6.0.3'
-        id='owl-carousel-js'></script>
-    <script type='text/javascript' src='wp-content/plugins/ultimate-addon/assets/js/slick.min1eb7.js?ver=6.0.3'
-        id='slick-js'></script>
-    <script type='text/javascript' src='wp-content/plugins/ultimate-addon/assets/js/swiper.min1eb7.js?ver=6.0.3'
-        id='swiper-js'></script>
-    <script type='text/javascript' src='wp-content/plugins/ultimate-addon/assets/js/modal-video.min1eb7.js?ver=6.0.3'
-        id='modal-video-js'></script>
-    <script type='text/javascript' src='wp-content/plugins/ultimate-addon/assets/js/TimeCircles1eb7.js?ver=6.0.3'
-        id='TimeCircle-js'></script>
-    <script type='text/javascript' src='wp-content/plugins/ultimate-addon/assets/js/roadmap.min1eb7.js?ver=6.0.3'
-        id='roadmap-js'></script>
-    <script type='text/javascript' src='wp-content/plugins/ultimate-addon/assets/js/timeline.min1eb7.js?ver=6.0.3'
-        id='timeline-js'></script>
-    <script type='text/javascript' src='wp-includes/js/imagesloaded.mineda1.js?ver=4.1.4' id='imagesloaded-js'></script>
-    <script type='text/javascript' src='wp-content/plugins/ultimate-addon/assets/js/isotope.pkgd.min1eb7.js?ver=6.0.3'
-        id='isotope-js'></script>
-    <script type='text/javascript' src='wp-includes/js/masonry.min3a05.js?ver=4.2.2' id='masonry-js'></script>
-    <script type='text/javascript' src='wp-content/plugins/ultimate-addon/assets/js/ajaxchimp1eb7.js?ver=6.0.3'
-        id='ajaxchimp-js'></script>
-    <script type='text/javascript' src='wp-content/plugins/ultimate-addon/assets/js/anime.min1eb7.js?ver=6.0.3'
-        id='anime-js'></script>
-    <script type='text/javascript' src='wp-content/plugins/ultimate-addon/assets/js/ultimate-effect.min1eb7.js?ver=6.0.3'
-        id='ultimate-effect-js'></script>
-    <script type='text/javascript' src='wp-content/plugins/ultimate-addon/assets/js/active1eb7.js?ver=6.0.3'
-        id='ultimate-core-js'></script>
-    <script type='text/javascript' src='wp-content/plugins/contact-form-7/includes/swv/js/index77e1.js?ver=5.6.4'
-        id='swv-js'></script>
-    <script type='text/javascript' id='contact-form-7-js-extra'>
-        /* <![CDATA[ */
-        var wpcf7 = {
-            "api": {
-                "root": "https:\/\/techbird.org\/omnivus\/home-1\/wp-json\/",
-                "namespace": "contact-form-7\/v1"
-            },
-            "cached": "1"
-        };
-        /* ]]> */
-    </script>
-    <script type='text/javascript' src='wp-content/plugins/contact-form-7/includes/js/index77e1.js?ver=5.6.4'
-        id='contact-form-7-js'></script>
-    <script type='text/javascript' src='wp-content/plugins/omnivuscore/assets/js/active8a54.js?ver=1.0.0' id='themecore-js'>
-    </script>
-    <script type='text/javascript' id='heart-count-js-extra'>
-        /* <![CDATA[ */
-        var MyAjax = {
-            "ajaxurl": "https:\/\/techbird.org\/omnivus\/home-1\/wp-admin\/admin-ajax.php",
-            "security": "e4158dcd6c"
-        };
-        /* ]]> */
-    </script>
-    <script type='text/javascript' src='wp-content/plugins/social-heart-count/heart-count8a54.js?ver=1.0.0'
-        id='heart-count-js'></script>
-    <script type='text/javascript' src='wp-content/themes/omnivus/assets/js/vendor/bootstrap.min7433.js?ver=3.3.7'
-        id='bootstrap-js'></script>
-    <script type='text/javascript' src='wp-includes/js/jquery/ui/effect.min0028.js?ver=1.13.1' id='jquery-effects-core-js'>
-    </script>
-    <script type='text/javascript' src='wp-content/themes/omnivus/assets/js/wow.mincfa9.js?ver=1.1.2' id='wow-js'></script>
-    <script type='text/javascript' src='wp-content/themes/omnivus/assets/js/stellarnav.min001e.js?ver=2.0.0'
-        id='stellarnav-js'></script>
-    <script type='text/javascript' src='wp-content/themes/omnivus/assets/js/jquery.selectbox.min8a54.js?ver=1.0.0'
-        id='selectbox-js'></script>
-    <script type='text/javascript' src='wp-content/themes/omnivus/assets/js/jquery.fitvidsf488.js?ver=1.1.0'
-        id='fitvids-js'></script>
-    <script type='text/javascript' src='wp-content/themes/omnivus/assets/js/placeholdem.min8a54.js?ver=1.0.0'
-        id='placeholdem-js'></script>
-    <script type='text/javascript' src='wp-content/themes/omnivus/assets/js/jquery.sticky4b68.js?ver=1.0.4'
-        id='menu-sticky-js'></script>
-    <script type='text/javascript' src='wp-content/themes/omnivus/assets/js/footer-reveal.min8a54.js?ver=1.0.0'
-        id='footer-reval-js'></script>
-    <script type='text/javascript' src='wp-content/themes/omnivus/assets/js/ResizeSensor.min8a54.js?ver=1.0.0'
-        id='resize-sensor-js'></script>
-    <script type='text/javascript' src='wp-content/themes/omnivus/assets/js/theia-sticky-sidebar.min8a54.js?ver=1.0.0'
-        id='sticky-sidebar-js'></script>
-    <script type='text/javascript' src='wp-content/themes/omnivus/assets/js/mainf488.js?ver=1.1.0' id='omnivus-active-js'>
-    </script>
-    <script type='text/javascript' id='omnivus-active-js-after'>
-        jQuery(document).ready(function() {
-            jQuery("a.scrolltotop").on("click", function(event) {
-                var id = jQuery(this).attr("href");
-                var offset = 60;
-                var target = jQuery(id).offset().top - offset;
-                jQuery("html, body").animate({
-                    scrollTop: target
-                }, 1500, "easeOutExpo");
-                event.preventDefault();
-            });
-        });
-
-
-        jQuery(document).ready(function() {
-            jQuery("#mainmenu-area").sticky({
-                topSpacing: 0
-            });
-        });
-
-
-        jQuery(document).ready(function() {
-            jQuery(".content-area .col-md-8,.content-area .col-md-4").theiaStickySidebar({
-                additionalMarginTop: 30
-            });
-        });
-    </script>
-    <script type='text/javascript' src='wp-content/plugins/elementor/assets/js/webpack.runtime.min9e95.js?ver=3.8.0'
-        id='elementor-webpack-runtime-js'></script>
-    <script type='text/javascript' src='wp-content/plugins/elementor/assets/js/frontend-modules.min9e95.js?ver=3.8.0'
-        id='elementor-frontend-modules-js'></script>
-    <script type='text/javascript' src='wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min05da.js?ver=4.0.2'
-        id='elementor-waypoints-js'></script>
-    <script type='text/javascript' src='wp-includes/js/jquery/ui/core.min0028.js?ver=1.13.1' id='jquery-ui-core-js'>
-    </script>
-    <script type='text/javascript' id='elementor-frontend-js-before'>
-        var elementorFrontendConfig = {
-            "environmentMode": {
-                "edit": false,
-                "wpPreview": false,
-                "isScriptDebug": false
-            },
-            "i18n": {
-                "shareOnFacebook": "Share on Facebook",
-                "shareOnTwitter": "Share on Twitter",
-                "pinIt": "Pin it",
-                "download": "Download",
-                "downloadImage": "Download image",
-                "fullscreen": "Fullscreen",
-                "zoom": "Zoom",
-                "share": "Share",
-                "playVideo": "Play Video",
-                "previous": "Previous",
-                "next": "Next",
-                "close": "Close"
-            },
-            "is_rtl": false,
-            "breakpoints": {
-                "xs": 0,
-                "sm": 480,
-                "md": 768,
-                "lg": 1025,
-                "xl": 1440,
-                "xxl": 1600
-            },
-            "responsive": {
-                "breakpoints": {
-                    "mobile": {
-                        "label": "Mobile",
-                        "value": 767,
-                        "default_value": 767,
-                        "direction": "max",
-                        "is_enabled": true
-                    },
-                    "mobile_extra": {
-                        "label": "Mobile Extra",
-                        "value": 880,
-                        "default_value": 880,
-                        "direction": "max",
-                        "is_enabled": false
-                    },
-                    "tablet": {
-                        "label": "Tablet",
-                        "value": 1024,
-                        "default_value": 1024,
-                        "direction": "max",
-                        "is_enabled": true
-                    },
-                    "tablet_extra": {
-                        "label": "Tablet Extra",
-                        "value": 1200,
-                        "default_value": 1200,
-                        "direction": "max",
-                        "is_enabled": false
-                    },
-                    "laptop": {
-                        "label": "Laptop",
-                        "value": 1366,
-                        "default_value": 1366,
-                        "direction": "max",
-                        "is_enabled": false
-                    },
-                    "widescreen": {
-                        "label": "Widescreen",
-                        "value": 2400,
-                        "default_value": 2400,
-                        "direction": "min",
-                        "is_enabled": false
-                    }
-                }
-            },
-            "version": "3.8.0",
-            "is_static": false,
-            "experimentalFeatures": {
-                "e_dom_optimization": true,
-                "e_optimized_assets_loading": true,
-                "e_optimized_css_loading": true,
-                "a11y_improvements": true,
-                "additional_custom_breakpoints": true,
-                "e_import_export": true,
-                "e_hidden_wordpress_widgets": true,
-                "landing-pages": true,
-                "elements-color-picker": true,
-                "favorite-widgets": true,
-                "admin-top-bar": true
-            },
-            "urls": {
-                "assets": "https:\/\/techbird.org\/omnivus\/home-1\/wp-content\/plugins\/elementor\/assets\/"
-            },
-            "settings": {
-                "page": [],
-                "editorPreferences": []
-            },
-            "kit": {
-                "active_breakpoints": ["viewport_mobile", "viewport_tablet"],
-                "global_image_lightbox": "yes",
-                "lightbox_enable_counter": "yes",
-                "lightbox_enable_fullscreen": "yes",
-                "lightbox_enable_zoom": "yes",
-                "lightbox_enable_share": "yes",
-                "lightbox_title_src": "title",
-                "lightbox_description_src": "description"
-            },
-            "post": {
-                "id": 582,
-                "title": "Home%201%20%E2%80%93%20IT%20Solutions%20%26%20Services%20WordPress%20Theme",
-                "excerpt": "",
-                "featuredImage": false
-            }
-        };
-    </script>
-    <script type='text/javascript' src='wp-content/plugins/elementor/assets/js/frontend.min9e95.js?ver=3.8.0'
-        id='elementor-frontend-js'></script>
-
-</body>
-
-<!-- Mirrored from techbird.org/omnivus/home-1/ by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 09 Nov 2022 11:48:57 GMT -->
-
-</html>
+@endsection

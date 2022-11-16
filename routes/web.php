@@ -2,6 +2,8 @@
 
 use Illuminate\Support\Facades\Route;
 
+use App\Http\Controllers\GuestController;
+
 /*
 |--------------------------------------------------------------------------
 | Web Routes
@@ -13,6 +15,13 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-Route::get('/', function () {
-    return view('guest.welcome');
-});
+Route::get('/', [GuestController::class, 'home'])->name('home');
+Route::get('about', [GuestController::class, 'about'])->name('about');
+Route::get('services', [GuestController::class, 'services'])->name('services');
+Route::get('service/details', [GuestController::class, 'services'])->name('service-details');
+Route::get('team', [GuestController::class, 'team'])->name('team');
+Route::get('plans', [GuestController::class, 'plans'])->name('plans');
+Route::get('faq', [GuestController::class, 'faq'])->name('faq');
+Route::get('blog', [GuestController::class, 'blog'])->name('blog');
+Route::get('blog-details', [GuestController::class, 'blogDetail'])->name('blog-details');
+Route::get('contact', [GuestController::class, 'contact'])->name('contact');
