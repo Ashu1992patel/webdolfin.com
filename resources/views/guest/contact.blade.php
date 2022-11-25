@@ -14,11 +14,11 @@
                     <div class="breadcumb">
                         <!-- Breadcrumb NavXT 7.1.0 -->
                         <span property="itemListElement" typeof="ListItem"><a property="item" typeof="WebPage"
-                                title="Go to Omnivus Sites." href="https://techbird.org/omnivus" class="main-home"><span
-                                    property="name">Omnivus Sites</span></a>
+                                title="Go to Omnivus Sites." href="#" class="main-home"><span
+                                    property="name">Webdolfin Sites</span></a>
                             <meta property="position" content="1">
                         </span> &gt; <span property="itemListElement" typeof="ListItem"><a property="item" typeof="WebPage"
-                                title="Go to Home 1." href="https://techbird.org/omnivus/home-1" class="home"><span
+                                title="Go to Home 1." href="#" class="home"><span
                                     property="name">Home 1</span></a>
                             <meta property="position" content="2">
                         </span> &gt; <span property="itemListElement" typeof="ListItem"><span property="name"
@@ -68,7 +68,7 @@
                                                                     Phone Number </span>
                                                             </h3>
                                                             <p class="elementor-icon-box-description">
-                                                                +610 00 00 000 </p>
+                                                                +91-9981435702 </p>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -94,9 +94,9 @@
                                                                     Email Address </span>
                                                             </h3>
                                                             <p class="elementor-icon-box-description">
-                                                                <a href="https://techbird.org/cdn-cgi/l/email-protection"
+                                                                <a href="#"
                                                                     class="__cf_email__"
-                                                                    data-cfemail="e5809d8488958980a58288848c89cb868a88">[email&#160;protected]</a>
+                                                                    data-cfemail="e5809d8488958980a58288848c89cb868a88">support@webdolfin.com</a>
                                                             </p>
                                                         </div>
                                                     </div>
@@ -129,7 +129,7 @@
                                                                     Office Location </span>
                                                             </h3>
                                                             <p class="elementor-icon-box-description">
-                                                                12/A, Dhaka, BD </p>
+                                                                India, MP, Jabalpur </p>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -155,7 +155,7 @@
                                                                     Social Network </span>
                                                             </h3>
                                                             <p class="elementor-icon-box-description">
-                                                                fb.com/techbird.org </p>
+                                                                fb.com/webdolfin.org </p>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -261,7 +261,7 @@
                                                 <p role="status" aria-live="polite" aria-atomic="true"></p>
                                                 <ul></ul>
                                             </div>
-                                            <form action="https://techbird.org/omnivus/home-1/contact/#wpcf7-f7-p592-o1"
+                                            <form action="#"
                                                 method="post" class="wpcf7-form init" novalidate="novalidate"
                                                 data-status="init">
                                                 <div style="display: none;">
@@ -348,7 +348,6 @@
                                     </style> <img width="529" height="558"
                                         src="../wp-content/uploads/sites/2/2021/08/contact-thumb.jpg"
                                         class="attachment-large size-large" alt="" loading="lazy"
-                                        srcset="https://techbird.org/omnivus/home-1/wp-content/uploads/sites/2/2021/08/contact-thumb.jpg 529w, https://techbird.org/omnivus/home-1/wp-content/uploads/sites/2/2021/08/contact-thumb-284x300.jpg 284w, https://techbird.org/omnivus/home-1/wp-content/uploads/sites/2/2021/08/contact-thumb-313x330.jpg 313w, https://techbird.org/omnivus/home-1/wp-content/uploads/sites/2/2021/08/contact-thumb-171x180.jpg 171w"
                                         sizes="(max-width: 529px) 100vw, 529px" />
                                 </div>
                             </div>

@@ -6,10 +6,12 @@
                 <div class="col-md-12 flex-v-center">
                     <div class="navbar-header">
                         <a href="index.html" class="custom-logo-link default-logo">
-                            <img src="wp-content/uploads/sites/2/2021/07/logo-2.png" alt="">
+                            <img src="wp-content/uploads/sites/2/2021/07/webdolphin-logo.svg" style="height: 100px;" alt="">
+                            {{-- <img src="wp-content/uploads/sites/2/2021/07/logo-2.png" alt=""> --}}
                         </a>
                         <a href="index.html" class="custom-logo-link sticky-logo">
-                            <img src="wp-content/uploads/sites/2/2021/07/logo-2.png" alt="">
+                            <img src="wp-content/uploads/sites/2/2021/07/webdolphin-logo.svg" style="height: 100px;" alt="">
+                            {{-- <img src="wp-content/uploads/sites/2/2021/07/logo-2.png" alt=""> --}}
                         </a>
                     </div>
                     <svg class="ham hamRotate ham8" viewBox="0 0 100 100" width="60">
@@ -50,7 +52,7 @@
                                     href="{{ route('plans') }}">Our Plans</a></li>
 
 
-                            <li id="menu-item-2710"
+                            {{-- <li id="menu-item-2710"
                                 class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children">
                                 <a href="#">Pages<span class="sub"></span></a>
                                 <ul class="sub-menu">
@@ -65,7 +67,7 @@
                                         class="menu-item menu-item-type-post_type menu-item-object-page"><a
                                             href="{{ route('faq') }}">FAQ<span class="sub"></span></a></li>
                                 </ul>
-                            </li>
+                            </li> --}}
                             <li id="menu-item-595" class="menu-item menu-item-type-post_type menu-item-object-page {{ request()->is('blog*') ? 'current-menu-parent current_page_item' : '' }}"><a
                                     href="{{ route('blog') }}">Blog<span class="sub"></span></a></li>
                             <li id="menu-item-594" class="menu-item menu-item-type-post_type menu-item-object-page {{ request()->is('contact*') ? 'current-menu-parent current_page_item' : '' }}"><a

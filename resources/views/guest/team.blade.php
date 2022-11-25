@@ -14,11 +14,11 @@
                     <div class="breadcumb">
                         <!-- Breadcrumb NavXT 7.1.0 -->
                         <span property="itemListElement" typeof="ListItem"><a property="item" typeof="WebPage"
-                                title="Go to Omnivus Sites." href="https://techbird.org/omnivus" class="main-home"><span
-                                    property="name">Omnivus Sites</span></a>
+                                title="Go to Webdolfin Sites." href="#" class="main-home"><span
+                                    property="name">Webdolfin Sites</span></a>
                             <meta property="position" content="1">
                         </span> &gt; <span property="itemListElement" typeof="ListItem"><a property="item" typeof="WebPage"
-                                title="Go to Home 1." href="https://techbird.org/omnivus/home-1" class="home"><span
+                                title="Go to Home 1." href="#" class="home"><span
                                     property="name">Home 1</span></a>
                             <meta property="position" content="2">
                         </span> &gt; <span property="itemListElement" typeof="ListItem"><span property="name"
@@ -440,7 +440,6 @@
                                                     </style> <img width="640" height="363"
                                                         src="../wp-content/uploads/sites/2/2021/08/team-join-thumb.png"
                                                         class="attachment-large size-large" alt="" loading="lazy"
-                                                        srcset="https://techbird.org/omnivus/home-1/wp-content/uploads/sites/2/2021/08/team-join-thumb.png 845w, https://techbird.org/omnivus/home-1/wp-content/uploads/sites/2/2021/08/team-join-thumb-300x170.png 300w, https://techbird.org/omnivus/home-1/wp-content/uploads/sites/2/2021/08/team-join-thumb-768x435.png 768w, https://techbird.org/omnivus/home-1/wp-content/uploads/sites/2/2021/08/team-join-thumb-570x323.png 570w, https://techbird.org/omnivus/home-1/wp-content/uploads/sites/2/2021/08/team-join-thumb-270x153.png 270w"
                                                         sizes="(max-width: 640px) 100vw, 640px" />
                                                 </div>
                                             </div>

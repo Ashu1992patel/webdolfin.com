@@ -4,14 +4,16 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-3 col-sm-6 col-xs-12">
-                    <div id="media_image-2" class="single-widgets widget_media_image"><img width="164" height="30"
-                            src="wp-content/uploads/sites/2/2021/07/logo-1.1.png"
+                    <div id="media_image-2" class="single-widgets widget_media_image">
+                        <img width="164" height="30"
+                            src="wp-content/uploads/sites/2/2021/07/webdolphin-logo.svg"
+                            {{-- src="wp-content/uploads/sites/2/2021/07/logo-1.1.png" --}}
                             class="image wp-image-953  attachment-full size-full" alt="" loading="lazy"
                             style="max-width: 100%; height: auto;" /></div>
                     <div id="custom_html-2" class="widget_text single-widgets widget_custom_html">
                         <div class="textwidget custom-html-widget">
                             <p style="color:#fff">The web has changed a lot since Vitaly posted his first article
-                                back in 2006. The team at Smashing has changed too, as have.</p>
+                                back in 2022. The team at Smashing has changed too, as have.</p>
                         </div>
                     </div>
                 </div>
@@ -51,9 +53,9 @@
                         <h3 class="widget-title">Working Hours</h3>
                         <div class="textwidget custom-html-widget">
                             <ul>
-                                <li>Monday - Friday: 7:00 - 17:00</li>
-                                <li>Saturday: 7:00 - 12:00</li>
-                                <li>Sunday and holidays: 8:00 - 10:00</li>
+                                <li>Monday - Friday: 10:00 - 18:00</li>
+                                <li>Saturday: 11:00 - 15:00</li>
+                                <li>Sunday and holidays: 12:00 - 14:00</li>
                             </ul>
                         </div>
                     </div>
@@ -96,9 +98,9 @@
                         <h3 class="widget-title">Follow Us On</h3>
 
                         <ul class="social_widget">
-                            <li><a class="facebook" href="https://facebook.com/"><i class="ti ti-facebook"></i></a></li>
-                            <li><a class="twitter" href="https://twitter.com/"><i class="ti ti-twitter"></i></a></li>
-                            <li><a class="youtube" href="https://youtube.com/"><i class="ti ti-youtube"></i></a></li>
+                            <li><a class="facebook" href="https://facebook.com/webdolfin"><i class="ti ti-facebook"></i></a></li>
+                            <li><a class="twitter" href="https://twitter.com/webdolfin"><i class="ti ti-twitter"></i></a></li>
+                            <li><a class="youtube" href="https://youtube.com/webdolfin"><i class="ti ti-youtube"></i></a></li>
                             <li><a class="instagram" href="#"><i class="ti ti-instagram"></i></a></li>
                             <li><a class="linkedin" href="#"><i class="ti ti-linkedin"></i></a></li>
                         </ul>
@@ -115,7 +117,7 @@
             <div class="row flex-v-center">
                 <div class="col-md-12">
                     <div class="footer-copyright center">
-                        Copryright © TechBird All Right Reserved. </div>
+                        Copryright © Web Dolfin All Right Reserved. </div>
                 </div>
             </div>
         </div>

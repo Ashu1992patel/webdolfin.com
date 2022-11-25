@@ -14,11 +14,11 @@
                     <div class="breadcumb">
                         <!-- Breadcrumb NavXT 7.1.0 -->
                         <span property="itemListElement" typeof="ListItem"><a property="item" typeof="WebPage"
-                                title="Go to Omnivus Sites." href="https://techbird.org/omnivus" class="main-home"><span
-                                    property="name">Omnivus Sites</span></a>
+                                title="Go to Webdolfin Sites." href="#" class="main-home"><span
+                                    property="name">Webdolfin Sites</span></a>
                             <meta property="position" content="1">
                         </span> &gt; <span property="itemListElement" typeof="ListItem"><a property="item" typeof="WebPage"
-                                title="Go to Home 1." href="https://techbird.org/omnivus/home-1" class="home"><span
+                                title="Go to Home 1." href="#" class="home"><span
                                     property="name">Home 1</span></a>
                             <meta property="position" content="2">
                         </span> &gt; <span property="itemListElement" typeof="ListItem"><span property="name"
@@ -256,7 +256,6 @@
                                     </style> <img width="431" height="524"
                                         src="../wp-content/uploads/sites/2/2021/07/tile-gallery-05.jpg"
                                         class="attachment-large size-large" alt="" loading="lazy"
-                                        srcset="https://techbird.org/omnivus/home-1/wp-content/uploads/sites/2/2021/07/tile-gallery-05.jpg 431w, https://techbird.org/omnivus/home-1/wp-content/uploads/sites/2/2021/07/tile-gallery-05-247x300.jpg 247w, https://techbird.org/omnivus/home-1/wp-content/uploads/sites/2/2021/07/tile-gallery-05-271x330.jpg 271w, https://techbird.org/omnivus/home-1/wp-content/uploads/sites/2/2021/07/tile-gallery-05-148x180.jpg 148w"
                                         sizes="(max-width: 431px) 100vw, 431px" />
                                 </div>
                             </div>
@@ -268,7 +267,6 @@
                                     <img width="440" height="319"
                                         src="../wp-content/uploads/sites/2/2021/07/tile-gallery-06.jpg"
                                         class="attachment-large size-large" alt="" loading="lazy"
-                                        srcset="https://techbird.org/omnivus/home-1/wp-content/uploads/sites/2/2021/07/tile-gallery-06.jpg 440w, https://techbird.org/omnivus/home-1/wp-content/uploads/sites/2/2021/07/tile-gallery-06-300x218.jpg 300w, https://techbird.org/omnivus/home-1/wp-content/uploads/sites/2/2021/07/tile-gallery-06-248x180.jpg 248w"
                                         sizes="(max-width: 440px) 100vw, 440px" />
                                 </div>
                             </div>
@@ -304,7 +302,6 @@
                                     <img width="529" height="558"
                                         src="../wp-content/uploads/sites/2/2021/07/intro-thumb-1.jpg"
                                         class="attachment-large size-large" alt="" loading="lazy"
-                                        srcset="https://techbird.org/omnivus/home-1/wp-content/uploads/sites/2/2021/07/intro-thumb-1.jpg 529w, https://techbird.org/omnivus/home-1/wp-content/uploads/sites/2/2021/07/intro-thumb-1-284x300.jpg 284w, https://techbird.org/omnivus/home-1/wp-content/uploads/sites/2/2021/07/intro-thumb-1-313x330.jpg 313w, https://techbird.org/omnivus/home-1/wp-content/uploads/sites/2/2021/07/intro-thumb-1-171x180.jpg 171w"
                                         sizes="(max-width: 529px) 100vw, 529px" />
                                 </div>
                             </div>
@@ -466,7 +463,7 @@
                                                                 <ul></ul>
                                                             </div>
                                                             <form
-                                                                action="https://techbird.org/omnivus/home-1/faq/#wpcf7-f7-p2640-o1"
+                                                                action="#"
                                                                 method="post" class="wpcf7-form init"
                                                                 novalidate="novalidate" data-status="init">
                                                                 <div style="display: none;">
@@ -561,7 +558,6 @@
                                                                 src="../wp-content/uploads/sites/2/2021/08/07.jpg"
                                                                 class="attachment-large size-large" alt=""
                                                                 loading="lazy"
-                                                                srcset="https://techbird.org/omnivus/home-1/wp-content/uploads/sites/2/2021/08/07.jpg 370w, https://techbird.org/omnivus/home-1/wp-content/uploads/sites/2/2021/08/07-300x243.jpg 300w, https://techbird.org/omnivus/home-1/wp-content/uploads/sites/2/2021/08/07-222x180.jpg 222w"
                                                                 sizes="(max-width: 370px) 100vw, 370px" /></div>
                                                         <div class="single__box single__box__layout__23">
                                                             <div class="box__bg__icon__text">02</div>
@@ -588,7 +584,6 @@
                                                                 src="../wp-content/uploads/sites/2/2021/08/10.jpg"
                                                                 class="attachment-large size-large" alt=""
                                                                 loading="lazy"
-                                                                srcset="https://techbird.org/omnivus/home-1/wp-content/uploads/sites/2/2021/08/10.jpg 370w, https://techbird.org/omnivus/home-1/wp-content/uploads/sites/2/2021/08/10-300x243.jpg 300w, https://techbird.org/omnivus/home-1/wp-content/uploads/sites/2/2021/08/10-222x180.jpg 222w"
                                                                 sizes="(max-width: 370px) 100vw, 370px" /></div>
                                                         <div class="single__box single__box__layout__23">
                                                             <div class="box__bg__icon__text">02</div>
@@ -619,7 +614,6 @@
                                                                 src="../wp-content/uploads/sites/2/2021/08/08.jpg"
                                                                 class="attachment-large size-large" alt=""
                                                                 loading="lazy"
-                                                                srcset="https://techbird.org/omnivus/home-1/wp-content/uploads/sites/2/2021/08/08.jpg 370w, https://techbird.org/omnivus/home-1/wp-content/uploads/sites/2/2021/08/08-300x243.jpg 300w, https://techbird.org/omnivus/home-1/wp-content/uploads/sites/2/2021/08/08-222x180.jpg 222w"
                                                                 sizes="(max-width: 370px) 100vw, 370px" /></div>
                                                         <div class="single__box single__box__layout__23">
                                                             <div class="box__bg__icon__text">02</div>
@@ -646,7 +640,6 @@
                                                                 src="../wp-content/uploads/sites/2/2021/08/11.jpg"
                                                                 class="attachment-large size-large" alt=""
                                                                 loading="lazy"
-                                                                srcset="https://techbird.org/omnivus/home-1/wp-content/uploads/sites/2/2021/08/11.jpg 370w, https://techbird.org/omnivus/home-1/wp-content/uploads/sites/2/2021/08/11-300x243.jpg 300w, https://techbird.org/omnivus/home-1/wp-content/uploads/sites/2/2021/08/11-222x180.jpg 222w"
                                                                 sizes="(max-width: 370px) 100vw, 370px" /></div>
                                                         <div class="single__box single__box__layout__23">
                                                             <div class="box__bg__icon__text">02</div>
@@ -678,7 +671,6 @@
                                                                 src="../wp-content/uploads/sites/2/2021/08/09.jpg"
                                                                 class="attachment-large size-large" alt=""
                                                                 loading="lazy"
-                                                                srcset="https://techbird.org/omnivus/home-1/wp-content/uploads/sites/2/2021/08/09.jpg 370w, https://techbird.org/omnivus/home-1/wp-content/uploads/sites/2/2021/08/09-300x243.jpg 300w, https://techbird.org/omnivus/home-1/wp-content/uploads/sites/2/2021/08/09-222x180.jpg 222w"
                                                                 sizes="(max-width: 370px) 100vw, 370px" /></div>
                                                         <div class="single__box single__box__layout__23">
                                                             <div class="box__bg__icon__text">02</div>
@@ -704,7 +696,6 @@
                                                                 src="../wp-content/uploads/sites/2/2021/08/12.jpg"
                                                                 class="attachment-large size-large" alt=""
                                                                 loading="lazy"
-                                                                srcset="https://techbird.org/omnivus/home-1/wp-content/uploads/sites/2/2021/08/12.jpg 370w, https://techbird.org/omnivus/home-1/wp-content/uploads/sites/2/2021/08/12-300x243.jpg 300w, https://techbird.org/omnivus/home-1/wp-content/uploads/sites/2/2021/08/12-222x180.jpg 222w"
                                                                 sizes="(max-width: 370px) 100vw, 370px" /></div>
                                                         <div class="single__box single__box__layout__23">
                                                             <div class="box__bg__icon__text">02</div>

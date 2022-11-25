@@ -91,7 +91,7 @@
                                             data-widget_type="button.default">
                                             <div class="elementor-widget-container">
                                                 <div class="elementor-button-wrapper">
-                                                    <a href="https://techbird.org/omnivus/about/"
+                                                    <a href="#"
                                                         class="elementor-button-link elementor-button elementor-size-md"
                                                         role="button">
                                                         <span class="elementor-button-content-wrapper">
@@ -143,7 +143,6 @@
                                                 <img width="544" height="756"
                                                     src="wp-content/uploads/sites/2/2021/07/banner-man.png"
                                                     class="attachment-large size-large" alt="" loading="lazy"
-                                                    srcset="https://techbird.org/omnivus/home-1/wp-content/uploads/sites/2/2021/07/banner-man.png 544w, https://techbird.org/omnivus/home-1/wp-content/uploads/sites/2/2021/07/banner-man-216x300.png 216w, https://techbird.org/omnivus/home-1/wp-content/uploads/sites/2/2021/07/banner-man-237x330.png 237w, https://techbird.org/omnivus/home-1/wp-content/uploads/sites/2/2021/07/banner-man-130x180.png 130w"
                                                     sizes="(max-width: 544px) 100vw, 544px" />
                                             </div>
                                         </div>
@@ -168,7 +167,6 @@
                             <div class="elementor-widget-container">
                                 <img width="530" height="730" src="wp-content/uploads/sites/2/2021/07/about-thumb.jpg"
                                     class="attachment-large size-large" alt="" loading="lazy"
-                                    srcset="https://techbird.org/omnivus/home-1/wp-content/uploads/sites/2/2021/07/about-thumb.jpg 530w, https://techbird.org/omnivus/home-1/wp-content/uploads/sites/2/2021/07/about-thumb-218x300.jpg 218w, https://techbird.org/omnivus/home-1/wp-content/uploads/sites/2/2021/07/about-thumb-240x330.jpg 240w, https://techbird.org/omnivus/home-1/wp-content/uploads/sites/2/2021/07/about-thumb-131x180.jpg 131w"
                                     sizes="(max-width: 530px) 100vw, 530px" />
                             </div>
                         </div>
@@ -395,7 +393,7 @@
                             data-id="8723240" data-element_type="widget" data-widget_type="button.default">
                             <div class="elementor-widget-container">
                                 <div class="elementor-button-wrapper">
-                                    <a href="https://techbird.org/omnivus/about/"
+                                    <a href="#"
                                         class="elementor-button-link elementor-button elementor-size-md" role="button">
                                         <span class="elementor-button-content-wrapper">
                                             <span class="elementor-button-text">Learn More</span>
@@ -765,7 +763,7 @@
                             data-id="6e91c8c" data-element_type="widget" data-widget_type="button.default">
                             <div class="elementor-widget-container">
                                 <div class="elementor-button-wrapper">
-                                    <a href="https://techbird.org/omnivus/about/"
+                                    <a href="#"
                                         class="elementor-button-link elementor-button elementor-size-md" role="button">
                                         <span class="elementor-button-content-wrapper">
                                             <span class="elementor-button-text">Learn More</span>
@@ -786,7 +784,6 @@
                                 <img width="529" height="558"
                                     src="wp-content/uploads/sites/2/2021/07/intro-thumb.jpg"
                                     class="attachment-large size-large" alt="" loading="lazy"
-                                    srcset="https://techbird.org/omnivus/home-1/wp-content/uploads/sites/2/2021/07/intro-thumb.jpg 529w, https://techbird.org/omnivus/home-1/wp-content/uploads/sites/2/2021/07/intro-thumb-284x300.jpg 284w, https://techbird.org/omnivus/home-1/wp-content/uploads/sites/2/2021/07/intro-thumb-313x330.jpg 313w, https://techbird.org/omnivus/home-1/wp-content/uploads/sites/2/2021/07/intro-thumb-171x180.jpg 171w"
                                     sizes="(max-width: 529px) 100vw, 529px" />
                             </div>
                         </div>
@@ -980,7 +977,7 @@
                                                             <ul></ul>
                                                         </div>
                                                         <form
-                                                            action="https://techbird.org/omnivus/home-1/#wpcf7-f7-p582-o1"
+                                                            action="#"
                                                             method="post" class="wpcf7-form init"
                                                             novalidate="novalidate" data-status="init">
                                                             <div style="display: none;">
@@ -1180,7 +1177,6 @@
                                 <img width="431" height="524"
                                     src="wp-content/uploads/sites/2/2021/07/tile-gallery-05.jpg"
                                     class="attachment-large size-large" alt="" loading="lazy"
-                                    srcset="https://techbird.org/omnivus/home-1/wp-content/uploads/sites/2/2021/07/tile-gallery-05.jpg 431w, https://techbird.org/omnivus/home-1/wp-content/uploads/sites/2/2021/07/tile-gallery-05-247x300.jpg 247w, https://techbird.org/omnivus/home-1/wp-content/uploads/sites/2/2021/07/tile-gallery-05-271x330.jpg 271w, https://techbird.org/omnivus/home-1/wp-content/uploads/sites/2/2021/07/tile-gallery-05-148x180.jpg 148w"
                                     sizes="(max-width: 431px) 100vw, 431px" />
                             </div>
                         </div>
@@ -1191,7 +1187,6 @@
                                 <img width="440" height="319"
                                     src="wp-content/uploads/sites/2/2021/07/tile-gallery-06.jpg"
                                     class="attachment-large size-large" alt="" loading="lazy"
-                                    srcset="https://techbird.org/omnivus/home-1/wp-content/uploads/sites/2/2021/07/tile-gallery-06.jpg 440w, https://techbird.org/omnivus/home-1/wp-content/uploads/sites/2/2021/07/tile-gallery-06-300x218.jpg 300w, https://techbird.org/omnivus/home-1/wp-content/uploads/sites/2/2021/07/tile-gallery-06-248x180.jpg 248w"
                                     sizes="(max-width: 440px) 100vw, 440px" />
                             </div>
                         </div>
@@ -1249,7 +1244,7 @@
                                             data-widget_type="heading.default">
                                             <div class="elementor-widget-container">
                                                 <h2 class="elementor-heading-title elementor-size-default"><a
-                                                        href="https://techbird.org/cdn-cgi/l/email-protection"
+                                                        href="#"
                                                         class="__cf_email__"
                                                         data-cfemail="0d68757d61684d6a606c6461236e6260">[email&#160;protected]</a>
                                                 </h2>

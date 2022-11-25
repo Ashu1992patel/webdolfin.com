@@ -11,13 +11,13 @@
                     <div class="breadcumb">
                         <!-- Breadcrumb NavXT 7.1.0 -->
                         <span property="itemListElement" typeof="ListItem"><a property="item" typeof="WebPage"
-                                title="Go to Omnivus Sites." href="https://techbird.org/omnivus" class="main-home"><span
-                                    property="name">Omnivus Sites</span></a>
+                                title="Go to Webdolfin Sites." href="#" class="main-home"><span
+                                    property="name">Webdolfin Sites</span></a>
                             <meta property="position" content="1" />
                         </span>
                         &gt;
                         <span property="itemListElement" typeof="ListItem"><a property="item" typeof="WebPage"
-                                title="Go to Home 1." href="https://techbird.org/omnivus/home-1" class="home"><span
+                                title="Go to Home 1." href="#" class="home"><span
                                     property="name">Home 1</span></a>
                             <meta property="position" content="2" />
                         </span>
@@ -50,11 +50,6 @@
                                             <img width="370" height="300"
                                                 src="../wp-content/uploads/sites/2/2021/08/07.jpg"
                                                 class="attachment-large size-large" alt="" loading="lazy"
-                                                srcset="
-                          https://techbird.org/omnivus/home-1/wp-content/uploads/sites/2/2021/08/07.jpg         370w,
-                          https://techbird.org/omnivus/home-1/wp-content/uploads/sites/2/2021/08/07-300x243.jpg 300w,
-                          https://techbird.org/omnivus/home-1/wp-content/uploads/sites/2/2021/08/07-222x180.jpg 222w
-                        "
                                                 sizes="(max-width: 370px) 100vw, 370px" />
                                         </div>
                                         <div class="single__box single__box__layout__23">
@@ -82,11 +77,6 @@
                                             <img width="370" height="300"
                                                 src="../wp-content/uploads/sites/2/2021/08/10.jpg"
                                                 class="attachment-large size-large" alt="" loading="lazy"
-                                                srcset="
-                          https://techbird.org/omnivus/home-1/wp-content/uploads/sites/2/2021/08/10.jpg         370w,
-                          https://techbird.org/omnivus/home-1/wp-content/uploads/sites/2/2021/08/10-300x243.jpg 300w,
-                          https://techbird.org/omnivus/home-1/wp-content/uploads/sites/2/2021/08/10-222x180.jpg 222w
-                        "
                                                 sizes="(max-width: 370px) 100vw, 370px" />
                                         </div>
                                         <div class="single__box single__box__layout__23">
@@ -117,11 +107,6 @@
                                             <img width="370" height="300"
                                                 src="../wp-content/uploads/sites/2/2021/08/08.jpg"
                                                 class="attachment-large size-large" alt="" loading="lazy"
-                                                srcset="
-                          https://techbird.org/omnivus/home-1/wp-content/uploads/sites/2/2021/08/08.jpg         370w,
-                          https://techbird.org/omnivus/home-1/wp-content/uploads/sites/2/2021/08/08-300x243.jpg 300w,
-                          https://techbird.org/omnivus/home-1/wp-content/uploads/sites/2/2021/08/08-222x180.jpg 222w
-                        "
                                                 sizes="(max-width: 370px) 100vw, 370px" />
                                         </div>
                                         <div class="single__box single__box__layout__23">
@@ -147,11 +132,6 @@
                                             <img width="370" height="300"
                                                 src="../wp-content/uploads/sites/2/2021/08/11.jpg"
                                                 class="attachment-large size-large" alt="" loading="lazy"
-                                                srcset="
-                          https://techbird.org/omnivus/home-1/wp-content/uploads/sites/2/2021/08/11.jpg         370w,
-                          https://techbird.org/omnivus/home-1/wp-content/uploads/sites/2/2021/08/11-300x243.jpg 300w,
-                          https://techbird.org/omnivus/home-1/wp-content/uploads/sites/2/2021/08/11-222x180.jpg 222w
-                        "
                                                 sizes="(max-width: 370px) 100vw, 370px" />
                                         </div>
                                         <div class="single__box single__box__layout__23">
@@ -184,11 +164,6 @@
                                             <img width="370" height="300"
                                                 src="../wp-content/uploads/sites/2/2021/08/09.jpg"
                                                 class="attachment-large size-large" alt="" loading="lazy"
-                                                srcset="
-                          https://techbird.org/omnivus/home-1/wp-content/uploads/sites/2/2021/08/09.jpg         370w,
-                          https://techbird.org/omnivus/home-1/wp-content/uploads/sites/2/2021/08/09-300x243.jpg 300w,
-                          https://techbird.org/omnivus/home-1/wp-content/uploads/sites/2/2021/08/09-222x180.jpg 222w
-                        "
                                                 sizes="(max-width: 370px) 100vw, 370px" />
                                         </div>
                                         <div class="single__box single__box__layout__23">
@@ -214,11 +189,6 @@
                                             <img width="370" height="300"
                                                 src="../wp-content/uploads/sites/2/2021/08/12.jpg"
                                                 class="attachment-large size-large" alt="" loading="lazy"
-                                                srcset="
-                          https://techbird.org/omnivus/home-1/wp-content/uploads/sites/2/2021/08/12.jpg         370w,
-                          https://techbird.org/omnivus/home-1/wp-content/uploads/sites/2/2021/08/12-300x243.jpg 300w,
-                          https://techbird.org/omnivus/home-1/wp-content/uploads/sites/2/2021/08/12-222x180.jpg 222w
-                        "
                                                 sizes="(max-width: 370px) 100vw, 370px" />
                                         </div>
                                         <div class="single__box single__box__layout__23">

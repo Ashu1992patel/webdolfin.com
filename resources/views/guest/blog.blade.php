@@ -56,11 +56,11 @@
                                         </div>
                                         <div class="posts__bottom__meta">
                                             <div class="post__author">
-                                                <a class="author__thumbnail" href="../author/techbird/index.html">
-                                                    <img src="https://secure.gravatar.com/avatar/39857f39d7867b06b340d54acbc176f2?s=96&amp;d=mm&amp;r=g"
+                                                <a class="author__thumbnail" href="#">
+                                                    <img src="wp-content/uploads/sites/2/2021/07/webdolphin-logo.svg"
                                                         alt="Lorem ipsum dolor sit amet, consecte cing elit, sed do eiusmod tempor.">
                                                 </a>
-                                                <a class="author__link" href="../author/techbird/index.html">techbird</a>
+                                                <a class="author__link" href="#">webdolfin</a>
                                             </div>
                                             <div class="posts__readmore"><a
                                                     href="../lorem-ipsum-dolor-sit-amet-consecte-cing-elit-sed-do-eiusmod-tempor-2/index.html"><i
@@ -99,11 +99,11 @@
                                         </div>
                                         <div class="posts__bottom__meta">
                                             <div class="post__author">
-                                                <a class="author__thumbnail" href="../author/techbird/index.html">
-                                                    <img src="https://secure.gravatar.com/avatar/39857f39d7867b06b340d54acbc176f2?s=96&amp;d=mm&amp;r=g"
+                                                <a class="author__thumbnail" href="#">
+                                                    <img src="wp-content/uploads/sites/2/2021/07/webdolphin-logo.svg"
                                                         alt="Magna aliqua. Ut enim ad minim venia m, quis nostrud exercitation ullamco">
                                                 </a>
-                                                <a class="author__link" href="../author/techbird/index.html">techbird</a>
+                                                <a class="author__link" href="#">webdolfin</a>
                                             </div>
                                             <div class="posts__readmore"><a
                                                     href="../magna-aliqua-ut-enim-ad-minim-venia-m-quis-nostrud-exercitation-ullamco-2/index.html"><i
@@ -142,11 +142,11 @@
                                         </div>
                                         <div class="posts__bottom__meta">
                                             <div class="post__author">
-                                                <a class="author__thumbnail" href="../author/techbird/index.html">
-                                                    <img src="https://secure.gravatar.com/avatar/39857f39d7867b06b340d54acbc176f2?s=96&amp;d=mm&amp;r=g"
+                                                <a class="author__thumbnail" href="#">
+                                                    <img src="wp-content/uploads/sites/2/2021/07/webdolphin-logo.svg"
                                                         alt="In reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.">
                                                 </a>
-                                                <a class="author__link" href="../author/techbird/index.html">techbird</a>
+                                                <a class="author__link" href="#">webdolfin</a>
                                             </div>
                                             <div class="posts__readmore"><a
                                                     href="../in-reprehenderit-in-voluptate-velit-esse-cillum-dolore-eu-fugiat-nulla-pariatur/index.html"><i
@@ -179,11 +179,11 @@
                                         </div>
                                         <div class="posts__bottom__meta">
                                             <div class="post__author">
-                                                <a class="author__thumbnail" href="../author/techbird/index.html">
-                                                    <img src="https://secure.gravatar.com/avatar/39857f39d7867b06b340d54acbc176f2?s=96&amp;d=mm&amp;r=g"
+                                                <a class="author__thumbnail" href="#">
+                                                    <img src="wp-content/uploads/sites/2/2021/07/webdolphin-logo.svg"
                                                         alt="Magna aliqua. Ut enim ad minim venia m, quis nostrud exercitation ullamco">
                                                 </a>
-                                                <a class="author__link" href="../author/techbird/index.html">techbird</a>
+                                                <a class="author__link" href="#">webdolfin</a>
                                             </div>
                                             <div class="posts__readmore"><a
                                                     href="../magna-aliqua-ut-enim-ad-minim-venia-m-quis-nostrud-exercitation-ullamco/index.html"><i
@@ -221,11 +221,11 @@
                                         </div>
                                         <div class="posts__bottom__meta">
                                             <div class="post__author">
-                                                <a class="author__thumbnail" href="../author/techbird/index.html">
-                                                    <img src="https://secure.gravatar.com/avatar/39857f39d7867b06b340d54acbc176f2?s=96&amp;d=mm&amp;r=g"
+                                                <a class="author__thumbnail" href="#">
+                                                    <img src="wp-content/uploads/sites/2/2021/07/webdolphin-logo.svg"
                                                         alt="Adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore.">
                                                 </a>
-                                                <a class="author__link" href="../author/techbird/index.html">techbird</a>
+                                                <a class="author__link" href="#">webdolfin</a>
                                             </div>
                                             <div class="posts__readmore"><a
                                                     href="../adipisicing-elit-sed-do-eiusmod-tempor-incididunt-ut-labore-et-dolore/index.html"><i
@@ -264,11 +264,11 @@
                                         </div>
                                         <div class="posts__bottom__meta">
                                             <div class="post__author">
-                                                <a class="author__thumbnail" href="../author/techbird/index.html">
-                                                    <img src="https://secure.gravatar.com/avatar/39857f39d7867b06b340d54acbc176f2?s=96&amp;d=mm&amp;r=g"
+                                                <a class="author__thumbnail" href="#">
+                                                    <img src="wp-content/uploads/sites/2/2021/07/webdolphin-logo.svg"
                                                         alt="Lorem ipsum dolor sit amet, consecte cing elit, sed do eiusmod tempor.">
                                                 </a>
-                                                <a class="author__link" href="../author/techbird/index.html">techbird</a>
+                                                <a class="author__link" href="#">webdolfin</a>
                                             </div>
                                             <div class="posts__readmore"><a
                                                     href="../lorem-ipsum-dolor-sit-amet-consecte-cing-elit-sed-do-eiusmod-tempor/index.html"><i
@@ -287,7 +287,7 @@
                 <div class="col-md-4">
                     <div class="widget-area">
                         <div id="search-1" class="single-widgets widget_search">
-                            <form class="search-form" action="https://techbird.org/omnivus/home-1/">
+                            <form class="search-form" action="#">
                                 <input name="s" placeholder="Search..." type="search">
                                 <button type="submit"><i class="ti-search"></i></button>
                             </form>
@@ -366,7 +366,6 @@
                                         src="../wp-content/uploads/sites/2/2021/08/blog-standard-1-150x150.jpg"
                                         class="attachment-thumbnail size-thumbnail wp-post-image" alt=""
                                         loading="lazy"
-                                        srcset="https://techbird.org/omnivus/home-1/wp-content/uploads/sites/2/2021/08/blog-standard-1-150x150.jpg 150w, https://techbird.org/omnivus/home-1/wp-content/uploads/sites/2/2021/08/blog-standard-1-400x400.jpg 400w"
                                         sizes="(max-width: 150px) 100vw, 150px" /> <a
                                         href="../lorem-ipsum-dolor-sit-amet-consecte-cing-elit-sed-do-eiusmod-tempor-2/index.html">Lorem
                                         ipsum dolor sit amet, consecte cing elit, sed do eiusmod tempor.</a>
@@ -376,7 +375,6 @@
                                         src="../wp-content/uploads/sites/2/2021/08/blog-standard-3-150x150.jpg"
                                         class="attachment-thumbnail size-thumbnail wp-post-image" alt=""
                                         loading="lazy"
-                                        srcset="https://techbird.org/omnivus/home-1/wp-content/uploads/sites/2/2021/08/blog-standard-3-150x150.jpg 150w, https://techbird.org/omnivus/home-1/wp-content/uploads/sites/2/2021/08/blog-standard-3-400x400.jpg 400w"
                                         sizes="(max-width: 150px) 100vw, 150px" /> <a
                                         href="../magna-aliqua-ut-enim-ad-minim-venia-m-quis-nostrud-exercitation-ullamco-2/index.html">Magna
                                         aliqua. Ut enim ad minim venia m, quis nostrud exercitation ullamco</a>
@@ -386,7 +384,6 @@
                                         src="../wp-content/uploads/sites/2/2021/08/blog-standard-1-150x150.jpg"
                                         class="attachment-thumbnail size-thumbnail wp-post-image" alt=""
                                         loading="lazy"
-                                        srcset="https://techbird.org/omnivus/home-1/wp-content/uploads/sites/2/2021/08/blog-standard-1-150x150.jpg 150w, https://techbird.org/omnivus/home-1/wp-content/uploads/sites/2/2021/08/blog-standard-1-400x400.jpg 400w"
                                         sizes="(max-width: 150px) 100vw, 150px" /> <a
                                         href="../in-reprehenderit-in-voluptate-velit-esse-cillum-dolore-eu-fugiat-nulla-pariatur/index.html">In
                                         reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
@@ -397,7 +394,6 @@
                                         src="../wp-content/uploads/sites/2/2021/08/blog-standard-2-150x150.jpg"
                                         class="attachment-thumbnail size-thumbnail wp-post-image" alt=""
                                         loading="lazy"
-                                        srcset="https://techbird.org/omnivus/home-1/wp-content/uploads/sites/2/2021/08/blog-standard-2-150x150.jpg 150w, https://techbird.org/omnivus/home-1/wp-content/uploads/sites/2/2021/08/blog-standard-2-400x400.jpg 400w"
                                         sizes="(max-width: 150px) 100vw, 150px" /> <a
                                         href="../magna-aliqua-ut-enim-ad-minim-venia-m-quis-nostrud-exercitation-ullamco/index.html">Magna
                                         aliqua. Ut enim ad minim venia m, quis nostrud exercitation ullamco</a>
